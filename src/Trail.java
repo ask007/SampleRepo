@@ -4,7 +4,7 @@ import java.util.Date;
 
 /*
 
-Sample Trail
+This class is used to trail spaces in string
 
 */
 public class Trail {
