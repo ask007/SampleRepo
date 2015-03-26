@@ -4,7 +4,8 @@ import java.util.Date;
 
 /*
 
-Sample Trail
+Sample Trail 
+this class is for SimpleDataFormat
 
 */
 public class Trail {
